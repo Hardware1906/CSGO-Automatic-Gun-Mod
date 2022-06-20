@@ -11,6 +11,7 @@ Special thanks to https://twitter.com/ZooL_Smith
 
 How to Install mod:                                                            
    Go to Steam\steamapps\common\Counter-Strike Global Offensive\csgo\addons
+   
    If there isn't "addons" folder, you can create new one
      
    Then paste "autoweap" to this folder
