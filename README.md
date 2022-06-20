@@ -1,7 +1,7 @@
 # Made by: Hardware (me)
 # This is just beta version, there are a lot of "bad thing" in it, i will fix it soon
-Inspired by twitter.com/SlothSquadron and u/ruwuwu                                        
-Special thanks to twitter.com/ZooL_Smith                                                    
+Inspired by https://twitter.com/SlothSquadron and u/ruwuwu                                        
+Special thanks to https://twitter.com/ZooL_Smith                                                    
                                                                             
     # Note: Do not join vanilla servers while this mod is active as you will be automatically kicked by sv_pure. 
     You cannot be VAC banned for using this mod. 
