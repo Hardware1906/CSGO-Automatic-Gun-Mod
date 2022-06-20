@@ -25,4 +25,4 @@ How to Install mod:
     Open that file and set the '1' next to autoweap to a '0'                     
                                                                                   
   *If you are unable to locate your CSGO folder, right click CSGO in your Steam library, click Properties, select the Local Files section
-    and select the Browse Local Files option.
+    and select the Browse Local Files option.*
