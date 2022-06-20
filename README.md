@@ -8,6 +8,12 @@ Special thanks to ZooL!
 
 
 
+How to Install mod:                                                            
+     Go to Steam\steamapps\common\Counter-Strike Global Offensive\csgo\addons
+     If there isn't "addons" folder, you can create new one
+     Then paste "autoweap" to this folder
+     DONE, you did it, now launch CSGO and enjoy
+
   How to Uninstall:                                                            
      Go to Steam\steamapps\common\Counter-Strike Global Offensive\csgo\addons     
      Locate the file named 'autoweap' and delete it.                             
