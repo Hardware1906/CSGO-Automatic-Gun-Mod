@@ -14,6 +14,7 @@ How to Install mod:
    If there isn't "addons" folder, you can create new one
      
    Then paste "autoweap" to this folder
+   
    DONE, you did it, now launch CSGO and enjoy
 
   How to Uninstall:                                                            
