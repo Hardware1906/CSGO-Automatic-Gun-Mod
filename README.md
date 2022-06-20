@@ -28,3 +28,7 @@ How to Install mod:
                                                                                   
   *If you are unable to locate your CSGO folder, right click CSGO in your Steam library, click Properties, select the Local Files section
     and select the Browse Local Files option.*
+
+
+
+Mod Preview: https://youtube.com/playlist?list=PL5TqIFOA4drJJtlxAJM7hfT1ykupUYCTO
