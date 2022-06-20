@@ -23,7 +23,8 @@ How to Install mod:
      Locate the file named 'autoweap' and delete it.                             
                                                                                   
   Alternatively you can locate a file named 'addonlist' located in Steam\steamapps\common\Counter-Strike Global Offensive\csgo
-    Open that file and set the '1' next to autoweap to a '0'                     
+    
+  Open that file and set the '1' next to autoweap to a '0'                     
                                                                                   
   *If you are unable to locate your CSGO folder, right click CSGO in your Steam library, click Properties, select the Local Files section
     and select the Browse Local Files option.*
