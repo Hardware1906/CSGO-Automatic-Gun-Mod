@@ -1,5 +1,4 @@
 # Made by: Hardware (me)
-# This is just beta version, there are a lot of "bad thing" in it, i will fix it soon
 Inspired by https://twitter.com/SlothSquadron and u/ruwuwu                                        
 Special thanks to https://twitter.com/ZooL_Smith (https://github.com/ZooLSmith)                                                    
                                                                             
